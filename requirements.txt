@@ -1,0 +1,13 @@
+Python version==3.9.7
+scrapy version==2.5.0
+OpenCV version==4.5.1
+pandas version==1.2.4
+PIL version==8.2.0
+numpy version==1.19.5
+joblib version==1.0.1
+sklearn version==0.24.2
+tensorflow version==2.6.0
+matplotlib version==3.4.3
+IPython version==7.27.0
+spacy version==3.1.3
+seaborn version==0.11.2
