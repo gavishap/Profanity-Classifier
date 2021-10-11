@@ -1,12 +1,7 @@
-scrapy==2.5.0
-OpenCV==4.5.1
-pandas==1.2.4
-PIL==8.2.0
-numpy==1.19.5
-joblib==1.0.1
-sklearn==0.24.2
-tensorflow==2.6.0
-matplotlib==3.4.3
-IPython==7.27.0
-spacy==3.1.3
-seaborn==0.11.2
+Python version==3.8.8
+scrapy version==2.5.1
+pandas version==1.2.4
+PIL version==8.2.0
+numpy version==1.20.1
+joblib version==1.0.1
+sklearn version==0.24.1
