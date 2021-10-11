@@ -1,6 +1,9 @@
-scrapy version==2.5.1
-pandas version==1.2.4
-PIL version==8.2.0
-numpy version==1.20.1
-joblib version==1.0.1
-sklearn version==0.24.1
+PIL==8.2.0
+platform==1.0.8
+scrapy==2.5.1
+pandas==1.2.4
+numpy==1.19.5
+joblib==1.0.1
+sklearn==0.24.1
+Watermark==2.2.0
+
